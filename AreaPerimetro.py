@@ -13,3 +13,4 @@ perimetro = 4 * lado
 # Apresentar o resultado
 print("Area =", area)
 print("Perimetro =", perimetro)
+#Afonso Barbosa
