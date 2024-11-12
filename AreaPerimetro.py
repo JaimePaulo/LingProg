@@ -16,3 +16,4 @@ print("Perimetro =", perimetro)
 #Afonso Barbosa
 #Bruno Costa
 #Tomás Sousa
+#Diogo Alves
