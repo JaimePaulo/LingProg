@@ -15,3 +15,4 @@ print("Area =", area)
 print("Perimetro =", perimetro)
 #Afonso Barbosa
 #Bruno Costa
+#Tomás Sousa
