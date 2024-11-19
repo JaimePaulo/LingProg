@@ -6,3 +6,4 @@
 # Objetivo soma 10 números seguidos
 
 Numero=13
+Numero=22
