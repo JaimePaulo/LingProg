@@ -5,7 +5,7 @@
 
 # Objetivo soma 10 números seguidos
 
-Antonio=13
+Numero1=13
 Numero2=22
 Numero5=39
 Numero19=99
