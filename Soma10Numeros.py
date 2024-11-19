@@ -15,3 +15,6 @@ Numero13=23
 Numero12=17
 Numero9=60
 Numero3=73
+
+# Soma de todos os números
+Soma = Antonio + Numero2 + Numero5 + Numero19 + Numero18 + Numero4 + Numero13 + Numero12 + Numero9 + Numero3
